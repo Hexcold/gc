@@ -1,5 +1,7 @@
 # GC
 
+Sejam muito bem vindos
+
 ## Atividade em C
 
 $1^a$ - Hello Word
